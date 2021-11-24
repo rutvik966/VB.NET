@@ -1,0 +1,14 @@
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\bin\Debug\netcoreapp3.1\Ass1_Program13.exe
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\bin\Debug\netcoreapp3.1\Ass1_Program13.deps.json
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\bin\Debug\netcoreapp3.1\Ass1_Program13.runtimeconfig.json
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\bin\Debug\netcoreapp3.1\Ass1_Program13.runtimeconfig.dev.json
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\bin\Debug\netcoreapp3.1\Ass1_Program13.dll
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\bin\Debug\netcoreapp3.1\Ass1_Program13.pdb
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\obj\Debug\netcoreapp3.1\Ass1_Program13.vbproj.AssemblyReference.cache
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\obj\Debug\netcoreapp3.1\Ass1_Program13.GeneratedMSBuildEditorConfig.editorconfig
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\obj\Debug\netcoreapp3.1\Ass1_Program13.AssemblyInfoInputs.cache
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\obj\Debug\netcoreapp3.1\Ass1_Program13.AssemblyInfo.vb
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\obj\Debug\netcoreapp3.1\Ass1_Program13.vbproj.CoreCompileInputs.cache
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\obj\Debug\netcoreapp3.1\Ass1_Program13.dll
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\obj\Debug\netcoreapp3.1\Ass1_Program13.pdb
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program13\Ass1_Program13\obj\Debug\netcoreapp3.1\Ass1_Program13.genruntimeconfig.cache

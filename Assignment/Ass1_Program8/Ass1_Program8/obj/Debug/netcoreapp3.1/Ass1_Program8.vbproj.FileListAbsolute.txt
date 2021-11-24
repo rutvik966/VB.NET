@@ -1,0 +1,14 @@
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\obj\Debug\netcoreapp3.1\Ass1_Program8.vbproj.AssemblyReference.cache
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\obj\Debug\netcoreapp3.1\Ass1_Program8.GeneratedMSBuildEditorConfig.editorconfig
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\obj\Debug\netcoreapp3.1\Ass1_Program8.AssemblyInfoInputs.cache
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\obj\Debug\netcoreapp3.1\Ass1_Program8.AssemblyInfo.vb
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\obj\Debug\netcoreapp3.1\Ass1_Program8.vbproj.CoreCompileInputs.cache
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\bin\Debug\netcoreapp3.1\Ass1_Program8.exe
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\bin\Debug\netcoreapp3.1\Ass1_Program8.deps.json
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\bin\Debug\netcoreapp3.1\Ass1_Program8.runtimeconfig.json
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\bin\Debug\netcoreapp3.1\Ass1_Program8.runtimeconfig.dev.json
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\bin\Debug\netcoreapp3.1\Ass1_Program8.dll
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\bin\Debug\netcoreapp3.1\Ass1_Program8.pdb
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\obj\Debug\netcoreapp3.1\Ass1_Program8.dll
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\obj\Debug\netcoreapp3.1\Ass1_Program8.pdb
+E:\0ther College\VB.NET\Assignment 1\Ass1_Program8\Ass1_Program8\obj\Debug\netcoreapp3.1\Ass1_Program8.genruntimeconfig.cache
